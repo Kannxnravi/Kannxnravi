@@ -61,6 +61,7 @@ Passionate for learning & exploring new Tech. I write [Blogs](https://medium.com
 
 - 💬 Ask me about Web Hosting, Projects, Cloud, Blogging and Hackathons.
 
+- 👨‍💻 I'm currently working on Chrome Extension Projects - Blockthesite(Extensions helps to block the particular Site)
 
   
 ## 🤝 Support Me:
