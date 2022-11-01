@@ -7,6 +7,9 @@
   <img src="https://raw.githubusercontent.com/Kannxnravi/Kannxnravi/main/Kannanravi%20Banner.gif" width="80%" title="Intro Card" alt="Intro Card">
 </p>
 
+
+---
+
 ### My Tech Toolbox 🧰 
 
 <p align="left">
@@ -20,3 +23,6 @@
 <img src="https://raw.githubusercontent.com/Kannxnravi/Kannxnravi/main/Icons/js.png" alt="javascript" width="40" height="40"/> 
 <img src="https://github.com/Kannxnravi/Kannxnravi/blob/main/Icons/visual-studio.png" alt="Vscode" width="40" height="40"/> 
 </p>
+
+
+---
