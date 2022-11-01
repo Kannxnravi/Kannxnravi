@@ -26,3 +26,7 @@
 
 
 ---
+
+I am  22 years old a 👨‍💻 **`Pondicherry University Graduate`**, with a **`Bachelor of Technology degree`**, and **`Blogger`** facilitating the world with User Experience 🧐 as a student
+
+
