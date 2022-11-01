@@ -42,7 +42,7 @@ I am  22 years old a 👨‍💻 **`Pondicherry University Graduate`** with a **
 - [Movie Recommendation System](https://medium.com/@kannanraviak/movie-recommendation-608cc49f1b06)
 - [Automate detection of different emotions from textual comments and feedback](https://medium.com/@kannanraviak/automate-detection-of-different-emotions-from-textual-comments-and-feedback-f124f0f35b71)
 <!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...](https://medium.com/@kannanraviak)
+➡️ [More Blog Posts➡](https://medium.com/@kannanraviak)
 </td>
 <td valign="top" width="50%">
 
