@@ -51,7 +51,7 @@ Passionate for learning & exploring new Tech. I write [Blogs](https://medium.com
 
 -  My primary coding language: **`Python, Java`**
 
-- 🔭 I’m currently working on `Something Intresting`.
+- 🔭 I’m currently working on `Something Interesting`.
 
 - 🤔 I’m looking for help with `Competitive Programming`
 
