@@ -33,17 +33,36 @@
 <a href="https://medium.com/@kannanraviak" target="_blank"><img alt="Blog" src="https://raw.githubusercontent.com/Kannxnravi/Kannxnravi/main/Icons/blog.png"  height="50px"/></a> 
 </p>
 
-Join my [GITHUB](https://github.com/Kannxnravi) | 
+Join my [GITHUB](https://github.com/Kannxnravi) 
 
 
 ---
 
-* My primary coding language: **`Python, Java`**
-
 I am  22 years old a 👨‍💻 **`Pondicherry University Graduate`** with a **`Bachelor of Technology degree`**, and **`Blogger`** facilitating the world with User Experience 🧐 as a student
+
+🤓 I have a keen interest in 🤝 collaborating and building digital solutions that solve real-world 🌍 problems. I'm also a interested in **`Machine Learning, Artficial Intelligence and Deep Learning`** and a **`Web Developer** With Design Thinking and Digital Technologies`** , society will be able to develop user-centered solutions that make a positive impact on the world.
 
 Passionate for learning & exploring new Tech. I write [Blogs](https://medium.com/@kannanraviak) & make educational
 
+
+-  My primary coding language: **`Python, Java`**
+
+- 🔭 I’m currently working on `Something Intresting`.
+
+- 🤔 I’m looking for help with `Competitive Programming`
+
+- 💬 Ask me about anything, Except Maths :sweat_smile:
+
+- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+
+- ⚡ Fun fact: I waste most of my time playing games
+
+- 🙋‍♂️ All about me is at **[Portfolio Website](https://kannanraviportfolio.in/)**
+
+  
+## 🤝 Support Me:
+
+<a href="https://www.swiggy.com/search?query=coffee" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
 
 <table><tr><td valign="top" width="50%">
 
@@ -56,23 +75,6 @@ Passionate for learning & exploring new Tech. I write [Blogs](https://medium.com
 <!-- BLOG-POST-LIST:END -->
 [More Blog Posts➡](https://medium.com/@kannanraviak)
 </td>
-  
-- 🙋‍♂️ All about me is at **[Portfolio Website](https://kannanraviportfolio.in/)**
-
-- 🔭 I’m currently working on `Something Intresting`.
-
-- 🤔 I’m looking for help with `Competitive Programming`
-
-- 💬 Ask me about anything, Except Maths :sweat_smile:
-
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
-
-- ⚡ Fun fact: I waste most of my time playing games
-
-  
-## 🤝 Support Me:
-
-<a href="https://www.swiggy.com/search?query=coffee" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
 
 
 
