@@ -42,7 +42,9 @@ I am  22 years old a 👨‍💻 **`Pondicherry University Graduate`** with a **
 
 I have a keen interest in 🤝 collaborating and building digital solutions that solve real-world 🌍 problems
 
-I'm also a interested in **`Machine Learning, Artficial Intelligence and Deep Learning`** and a **`Web Developer`** With Design Thinking and Digital Technologies 🤓 
+I'm also a interested in **`Machine Learning, Artficial Intelligence and Deep Learning`** and a **`Web Developer`** With Design Thinking and Digital Technologies 🤓
+
+I am working on building my online presence and doing my bit to spread knowledge
 
 
 
