@@ -63,7 +63,7 @@ I am  22 years old a 👨‍💻 **`Pondicherry University Graduate`** with a **
   
 ## 🤝 Support Me:
 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
+<a  target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
 
 
 
