@@ -33,6 +33,8 @@
 <a href="https://medium.com/@kannanraviak" target="_blank"><img alt="Blog" src="https://raw.githubusercontent.com/Kannxnravi/Kannxnravi/main/Icons/blog.png"  height="50px"/></a> 
 </p>
 
+Join my [GITHUB](https://github.com/Kannxnravi) | 
+
 
 ---
 
@@ -40,8 +42,8 @@
 
 I am  22 years old a 👨‍💻 **`Pondicherry University Graduate`** with a **`Bachelor of Technology degree`**, and **`Blogger`** facilitating the world with User Experience 🧐 as a student
 
-* Passionate for learning & exploring new Tech. I write [Blogs](https://medium.com/@kannanraviak) & make educational
-* Join my [Linkedin](https://www.linkedin.com/in/kannxnravi/) | [GITHUB](https://github.com/Kannxnravi)
+Passionate for learning & exploring new Tech. I write [Blogs](https://medium.com/@kannanraviak) & make educational
+
 
 <table><tr><td valign="top" width="50%">
 
