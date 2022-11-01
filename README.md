@@ -42,7 +42,7 @@ I am  22 years old a 👨‍💻 **`Pondicherry University Graduate`** with a **
 
 🤓 I have a keen interest in 🤝 collaborating and building digital solutions that solve real-world 🌍 problems. 
 
-I'm also a interested in **`Machine Learning, Artficial Intelligence and Deep Learning`** and a **`Web Developer** With Design Thinking and Digital Technologies`** 
+I'm also a interested in **`Machine Learning, Artficial Intelligence and Deep Learning`** and a **`Web Developer`** With Design Thinking and Digital Technologies`** 
 
 
 
@@ -59,9 +59,8 @@ Passionate for learning & exploring new Tech. I write [Blogs](https://medium.com
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
-- ⚡ Fun fact: I waste most of my time playing games
+- 💬 Ask me about Web Hosting, Projects, Cloud, Blogging and Hackathons.
 
-- 🙋‍♂️ All about me is at **[Portfolio Website](https://kannanraviportfolio.in/)**
 
   
 ## 🤝 Support Me:
