@@ -25,7 +25,7 @@
 
 </p>
 
-## Let's get connected ❤️ 
+### You can find in me in the web 🌍
 
 <p>
 <a href="https://kannanraviportfolio.in/" target="_blank"><img alt="Github" src="https://raw.githubusercontent.com/Kannxnravi/Kannxnravi/main/Icons/github.png" height="50px" /></a>
@@ -77,7 +77,10 @@ Passionate for learning & exploring new Tech. I write [Blogs](https://medium.com
 - [Automate detection of different emotions from textual comments and feedback](https://medium.com/@kannanraviak/automate-detection-of-different-emotions-from-textual-comments-and-feedback-f124f0f35b71)
 <!-- BLOG-POST-LIST:END -->
 [More Blog Posts➡](https://medium.com/@kannanraviak)
-</td>
+  </td></tr></table>
 
+  Let's connect 👨‍💻 and forge the future together. 😁✌ 
+
+**Check the Repositories and don't forget to give a star.** 👇
 
 
