@@ -59,7 +59,7 @@ I am  22 years old a 👨‍💻 **`Pondicherry University Graduate`** with a **
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
 - ⚡ Fun fact: I waste most of my time playing games
-
+  </td>
   
 ## 🤝 Support Me:
 
