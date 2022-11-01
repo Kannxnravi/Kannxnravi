@@ -67,7 +67,7 @@ Passionate for learning & exploring new Tech. I write [Blogs](https://medium.com
 
 <a href="https://www.buymeacoffee.com/kannxnravi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
 
-<table><tr><td valign="top" width="50%">
+<tr><td valign="top" width="50%">
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
@@ -77,7 +77,7 @@ Passionate for learning & exploring new Tech. I write [Blogs](https://medium.com
 - [Automate detection of different emotions from textual comments and feedback](https://medium.com/@kannanraviak/automate-detection-of-different-emotions-from-textual-comments-and-feedback-f124f0f35b71)
 <!-- BLOG-POST-LIST:END -->
 [More Blog Posts➡](https://medium.com/@kannanraviak)
-  </td></tr></table>
+  </td></tr>
 
   Let's connect 👨‍💻 and forge the future together. 😁✌ 
 
