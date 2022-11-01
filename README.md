@@ -40,7 +40,11 @@ Join my [GITHUB](https://github.com/Kannxnravi)
 
 I am  22 years old a 👨‍💻 **`Pondicherry University Graduate`** with a **`Bachelor of Technology degree`**, and **`Blogger`** facilitating the world with User Experience 🧐 as a student
 
-🤓 I have a keen interest in 🤝 collaborating and building digital solutions that solve real-world 🌍 problems. I'm also a interested in **`Machine Learning, Artficial Intelligence and Deep Learning`** and a **`Web Developer** With Design Thinking and Digital Technologies`** , society will be able to develop user-centered solutions that make a positive impact on the world.
+🤓 I have a keen interest in 🤝 collaborating and building digital solutions that solve real-world 🌍 problems. 
+
+I'm also a interested in **`Machine Learning, Artficial Intelligence and Deep Learning`** and a **`Web Developer** With Design Thinking and Digital Technologies`** 
+
+
 
 Passionate for learning & exploring new Tech. I write [Blogs](https://medium.com/@kannanraviak) & make educational
 
@@ -62,7 +66,7 @@ Passionate for learning & exploring new Tech. I write [Blogs](https://medium.com
   
 ## 🤝 Support Me:
 
-<a href="https://www.swiggy.com/search?query=coffee" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
+<a href="https://www.buymeacoffee.com/kannxnravi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
 
 <table><tr><td valign="top" width="50%">
 
