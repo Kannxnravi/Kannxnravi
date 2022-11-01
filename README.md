@@ -28,9 +28,9 @@
 ## Let's get connected ❤️ 
 
 <p>
-<a href="https://kannanraviportfolio.in/" target="_blank"><img alt="Github" src="https://raw.githubusercontent.com/Kannxnravi/Kannxnravi/main/Icons/github.png" height="30px" /></a>
-<a href="https://www.linkedin.com/in/kannxnravi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
-<a href="https://medium.com/@kannanraviak" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a> 
+<a href="https://kannanraviportfolio.in/" target="_blank"><img alt="Github" src="https://raw.githubusercontent.com/Kannxnravi/Kannxnravi/main/Icons/github.png" height="50px" /></a>
+<a href="https://www.linkedin.com/in/kannxnravi/" target="_blank"><img alt="LinkedIn" src="https://raw.githubusercontent.com/Kannxnravi/Kannxnravi/main/Icons/linkedin.png"  height="50px"/></a> 
+<a href="https://medium.com/@kannanraviak" target="_blank"><img alt="Blog" src="https://raw.githubusercontent.com/Kannxnravi/Kannxnravi/main/Icons/blog.png"  height="50px"/></a> 
 </p>
 
 
