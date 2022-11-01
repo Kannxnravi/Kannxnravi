@@ -54,8 +54,7 @@ I am  22 years old a 👨‍💻 **`Pondicherry University Graduate`** with a **
 <!-- BLOG-POST-LIST:END -->
 [More Blog Posts➡](https://medium.com/@kannanraviak)
 </td>
-<td valign="top" width="50%">
-
+  
 - 🙋‍♂️ All about me is at **[Portfolio Website](https://kannanraviportfolio.in/)**
 
 - 🔭 I’m currently working on `Something Intresting`.
@@ -67,7 +66,7 @@ I am  22 years old a 👨‍💻 **`Pondicherry University Graduate`** with a **
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
 - ⚡ Fun fact: I waste most of my time playing games
-  </td>
+
   
 ## 🤝 Support Me:
 
