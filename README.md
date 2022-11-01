@@ -37,8 +37,8 @@ I am  22 years old a 👨‍💻 **`Pondicherry University Graduate`** with a **
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
-- [Create Virtual Environment for Python with Anaconda]([https://ayushirawat.com/beginners-guide-to-hacktoberfest-2021](https://medium.com/@kannanraviak/create-virtual-environment-for-python-with-anaconda-b7b0f5abb065))
-- [How to Start a New Jupyter Notebook]([https://ayushirawat.com/what-is-hacktoberfest](https://medium.com/@kannanraviak/how-to-start-a-new-jupyter-notebook-e34759bf0f36))
+- [Create Virtual Environment for Python with Anaconda](https://ayushirawat.com/beginners-guide-to-hacktoberfest-2021](https://medium.com/@kannanraviak/create-virtual-environment-for-python-with-anaconda-b7b0f5abb065)
+- [How to Start a New Jupyter Notebook](https://ayushirawat.com/what-is-hacktoberfest](https://medium.com/@kannanraviak/how-to-start-a-new-jupyter-notebook-e34759bf0f36)
 - [Movie Recommendation System](https://medium.com/@kannanraviak/movie-recommendation-608cc49f1b06)
 - [Automate detection of different emotions from textual comments and feedback](https://medium.com/@kannanraviak/automate-detection-of-different-emotions-from-textual-comments-and-feedback-f124f0f35b71)
 <!-- BLOG-POST-LIST:END -->
