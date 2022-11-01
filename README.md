@@ -27,6 +27,24 @@
 
 ---
 
-I am  22 years old a 👨‍💻 **`Pondicherry University Graduate`**, with a **`Bachelor of Technology degree`**, and **`Blogger`** facilitating the world with User Experience 🧐 as a student
+* My primary coding language: **`Python, Java`**
+
+I am  22 years old a 👨‍💻 **`Pondicherry University Graduate`** with a **`Bachelor of Technology degree`**, and **`Blogger`** facilitating the world with User Experience 🧐 as a student
+
+* Passionate for learning & exploring new Tech. I write [Blogs](https://medium.com/@kannanraviak) & make educational
+
+- 🙋‍♂️ All about me is at **[My Website](https://kannanraviportfolio.in/)**
+
+- 🔭 I’m currently working on `Something Intresting`.
+
+- 🤔 I’m looking for help with `Competitive Programming`
+
+- 💬 Ask me about anything, Except Maths :sweat_smile:
+
+- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+
+- ⚡ Fun fact: I waste most of my time playing games
+
+
 
 
