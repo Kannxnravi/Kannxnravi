@@ -33,7 +33,7 @@
 <a href="https://medium.com/@kannanraviak" target="_blank"><img alt="Blog" src="https://raw.githubusercontent.com/Kannxnravi/Kannxnravi/main/Icons/blog.png"  height="50px"/></a> 
 </p>
 
-Join my [GITHUB](https://github.com/Kannxnravi) 
+Join in my [GITHUB](https://github.com/Kannxnravi) 
 
 
 ---
