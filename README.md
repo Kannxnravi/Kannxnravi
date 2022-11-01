@@ -10,7 +10,7 @@
 
 ---
 
-### My Tech Toolbox 🧰 
+### Technologies and Tools I use🧰 
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/Kannxnravi/Kannxnravi/main/Icons/java.png" alt="java" width="40" height="40"/> 
@@ -22,6 +22,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/>
 <img src="https://raw.githubusercontent.com/Kannxnravi/Kannxnravi/main/Icons/js.png" alt="javascript" width="40" height="40"/> 
 <img src="https://github.com/Kannxnravi/Kannxnravi/blob/main/Icons/visual-studio.png" alt="Vscode" width="40" height="40"/> 
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
 </p>
 
 
@@ -32,6 +33,7 @@
 I am  22 years old a 👨‍💻 **`Pondicherry University Graduate`** with a **`Bachelor of Technology degree`**, and **`Blogger`** facilitating the world with User Experience 🧐 as a student
 
 * Passionate for learning & exploring new Tech. I write [Blogs](https://medium.com/@kannanraviak) & make educational
+* Join my [Linkedin](https://www.linkedin.com/in/kannxnravi/) | [GITHUB](https://github.com/Kannxnravi)
 
 <table><tr><td valign="top" width="50%">
 
