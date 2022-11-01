@@ -37,13 +37,12 @@ I am  22 years old a 👨‍💻 **`Pondicherry University Graduate`** with a **
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
-- [Beginner's guide to Hacktoberfest 2021](https://ayushirawat.com/beginners-guide-to-hacktoberfest-2021)
-- [What is Hacktoberfest? Hacktoberfest 101](https://ayushirawat.com/what-is-hacktoberfest)
-- [12 Python Tips & Tricks You must know](https://ayushirawat.com/12-python-tips-and-tricks-you-must-know)
-- [HTTP Status Codes that You must know](https://ayushirawat.com/http-status-codes-that-you-must-know)
-- [GitHub Copilot: All you need to know](https://ayushirawat.com/github-copilot-all-you-need-to-know)
+- [Create Virtual Environment for Python with Anaconda]([https://ayushirawat.com/beginners-guide-to-hacktoberfest-2021](https://medium.com/@kannanraviak/create-virtual-environment-for-python-with-anaconda-b7b0f5abb065))
+- [How to Start a New Jupyter Notebook]([https://ayushirawat.com/what-is-hacktoberfest](https://medium.com/@kannanraviak/how-to-start-a-new-jupyter-notebook-e34759bf0f36))
+- [Movie Recommendation System](https://medium.com/@kannanraviak/movie-recommendation-608cc49f1b06)
+- [Automate detection of different emotions from textual comments and feedback](https://medium.com/@kannanraviak/automate-detection-of-different-emotions-from-textual-comments-and-feedback-f124f0f35b71)
 <!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...](https://ayushirawat.com/)
+➡️ [more blog posts...](https://medium.com/@kannanraviak)
 </td>
 <td valign="top" width="50%">
 
