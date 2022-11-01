@@ -22,7 +22,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/>
 <img src="https://raw.githubusercontent.com/Kannxnravi/Kannxnravi/main/Icons/js.png" alt="javascript" width="40" height="40"/> 
 <img src="https://github.com/Kannxnravi/Kannxnravi/blob/main/Icons/visual-studio.png" alt="Vscode" width="40" height="40"/> 
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
+
 </p>
 
 
@@ -60,6 +60,10 @@ I am  22 years old a 👨‍💻 **`Pondicherry University Graduate`** with a **
 
 - ⚡ Fun fact: I waste most of my time playing games
 
+  
+## 🤝 Support Me:
+
+<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
 
 
 
