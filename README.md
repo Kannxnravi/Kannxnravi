@@ -88,6 +88,6 @@ Passionate for learning & exploring new Tech. I write [Blogs](https://medium.com
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-## 😂 Here is a random joke that'll make you laugh!
+## Here is a random joke that'll make you laugh! 😂 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
