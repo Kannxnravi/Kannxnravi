@@ -88,6 +88,5 @@ Passionate for learning & exploring new Tech. I write [Blogs](https://medium.com
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Kannxnravi&show_icons=true)
 
 
