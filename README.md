@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kannxnravi/Kannxnravi/main/Kannan%20Ravi.png" width="80%" title="Intro Card" alt="Intro Card">
+  <img src="https://raw.githubusercontent.com/Kannxnravi/Kannxnravi/main/Kannanravi.jpg" width="80%" title="Intro Card" alt="Intro Card">
 </p>
 
 
