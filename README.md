@@ -56,11 +56,8 @@ Passionate for learning & exploring new Tech. I write [Blogs](https://medium.com
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
-- 💬 Ask me about Web Hosting, Projects, Cloud, Blogging and Hackathons.
-
 - 🔭 I’m planning to start a Chrome Extension Projects 🧐 Blockthesite (Extensions helps to block the particular Site) for Students
 
-- 👨‍💻 I'm currently working on  - 
 
   
 ## 🤝 Support Me:
