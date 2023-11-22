@@ -25,7 +25,7 @@ Join in my [GITHUB](https://github.com/Kannxnravi)
 
 ---
 
-I am  22 years old a 👨‍💻 **`Pondicherry University Graduate`** with a **`Bachelor of Technology degree`**, and **`Blogger`** facilitating the world with User Experience 🧐 as a student
+I am  23 years old a 👨‍💻 **`Pondicherry University Graduate`** with a **`Bachelor of Technology degree`**, and **`Blogger`** facilitating the world with User Experience 🧐 as a student
 
 I have a keen interest in 🤝 collaborating and building digital solutions that solve real-world 🌍 problems
 
