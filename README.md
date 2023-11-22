@@ -2,14 +2,6 @@
 
 ---
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kannxnravi/Kannxnravi/main/Kannanravi.jpg" width="80%" title="Intro Card" alt="Intro Card">
-</p>
-
-
----
-
 ### Technologies and Tools I use🧰 
 
 <p align="left">
