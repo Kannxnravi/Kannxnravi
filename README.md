@@ -8,8 +8,7 @@
 - 🎓 B.Tech Graduate from Pondicherry University  
 - 💻 Passionate about building clean & useful tech  
 - 🔁 Transitioned from Mechanical to Tech through self-learning  
-- 📚 I love writing blogs, cooking new dishes & playing football  
-- 🚀 Currently exploring AI/ML & building real-world projects  
+- 📚 I love writing blogs, cooking new dishes & playing football   
 
 ---
 
@@ -30,7 +29,7 @@
 
 ### 📈 LeetCode Activity
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/kannxnravi?ext=contest&theme=light)](https://leetcode.com/kannxnravi)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/kannanraviak?ext=contest&theme=light)](https://leetcode.com/u/kannanraviak/)
 
 ---
 
