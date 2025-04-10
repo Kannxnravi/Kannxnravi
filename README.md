@@ -1,56 +1,62 @@
-<h1 align="center">Hey 👋, I'm Kannan Ravi</h1>
-
-<p align="center">A passionate Web & Backend Developer from India</p>
+<h1 align="center">Hi, I'm Kannan Ravi 👋</h1>
+<p align="center">Web Developer | Java Backend | Blogger | Tech Enthusiast</p>
 
 ---
 
-### 🧰 Technologies and Tools I Use
+### 🧠 About Me
+
+- 🎓 B.Tech Graduate from Pondicherry University  
+- 💻 Passionate about building clean & useful tech  
+- 🔁 Transitioned from Mechanical to Tech through self-learning  
+- 📚 I love writing blogs, cooking new dishes & playing football  
+- 🚀 Currently exploring AI/ML & building real-world projects  
+
+---
+
+### 🧰 My Tech Toolbox
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring boot" width="40" height="40"/>
-  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" title="Core Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35" title="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" title="Git" />
 </p>
 
 ---
 
-### 📈 LeetCode Stats
+### 📈 LeetCode Activity
 
-[![Kannan's LeetCode stats](https://leetcard.jacoblin.cool/kannxnravi?theme=light&font=Arial&ext=activity)](https://leetcode.com/kannxnravi)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/kannxnravi?ext=contest&theme=light)](https://leetcode.com/kannxnravi)
 
 ---
 
-### 🌍 Connect with me
+### 🔗 Let's Connect
 
 <p>
   <a href="https://kannanraviportfolio.in/" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/kannxnravi/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://medium.com/@kannanraviak" target="_blank">
-    <img alt="Blog" src="https://img.shields.io/badge/Blog-Medium-black?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Blog-Medium-black?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### ✨ Interests (Apart from Coding!)
 
-- 🎓 Graduate in B.Tech Mechanical Engineering from Pondicherry University  
-- 💻 Self-taught developer with experience in Full Stack and Backend projects  
-- 🌱 Currently learning AI/ML and working on projects using Python and Java  
-- 🧠 Strong interest in problem-solving, DSA, and building scalable apps  
-- ✍️ I also enjoy blogging, football, and cooking!  
+- ✍️ Writing Blogs  
+- ⚽ Playing Football  
+- 🍳 Cooking New Recipes  
 
 ---
 
-### 📬 Let's Connect & Collaborate  
-If you're looking for a passionate and curious developer for your team or project, feel free to reach out!
+> *Building one project at a time. Learning one concept at a time. Sharing one blog at a time.*
 
